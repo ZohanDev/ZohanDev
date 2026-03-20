@@ -1,7 +1,7 @@
+## 💤 Im zohan
 
 
-
-### 💻 Developer | Problem Solver | Tech Enthusiast
+### 💻 Developer |  | Tech Enthusiast
 
 ---
 
@@ -59,7 +59,7 @@
 - 🎮 Gaming + coding = perfect combo
 
 ---
-## __Work Experience__
+## 💼 __Work Experience__
 - ZelfsProducts @ Ceo 2024 to 2026
 - Srobot @ founder 2025 to Present
 - Botify @ founder 2025 ro present 
