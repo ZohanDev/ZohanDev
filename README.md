@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Zohan!
 
-### 🌍 Based in Dubai
+
+
 ### 💻 Developer | Problem Solver | Tech Enthusiast
 
 ---
@@ -50,15 +50,18 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/ZohanDev
 
 ---
 
 ## ⚡ Fun Facts
 - 💻 I love coding late at night
 - 🎮 Gaming + coding = perfect combo
-- 🚀 Always ready to learn something new
 
 ---
-
+## __Work Experience__
+- ZelfsProducts @ Ceo 2024 to 2026
+- Srobot @ founder 2025 to Present
+- Botify @ founder 2025 ro present 
+---
 ⭐ *Feel free to check out my repositories and give a star if you like them!*
