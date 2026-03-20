@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Zohan!
 
-<!--
-**ZohanDev/ZohanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Based in Dubai
+### 💻 Developer | Problem Solver | Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I enjoy building creative and useful projects
+- 🧠 Always learning new technologies
+- 💡 Passionate about coding and problem solving
+- 🌱 Currently improving my skills in modern development
+- ⚡ I like turning ideas into real applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- JavaScript (ES6+)
+- Python
+
+### ⚙️ Tools & Technologies
+- Git & GitHub
+- VS Code
+- Node.js (Basics)
+- Browser DevTools
+
+---
+
+## 📊 GitHub Stats
+
+![Zohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 What I’m Working On
+- Building JavaScript-based projects
+- Improving Python scripting & automation
+- Exploring new ideas for apps and games
+
+---
+
+## 🎯 Goals
+- Become a full-stack developer
+- Build impactful real-world projects
+- Contribute to open-source
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## ⚡ Fun Facts
+- 💻 I love coding late at night
+- 🎮 Gaming + coding = perfect combo
+- 🚀 Always ready to learn something new
+
+---
+
+⭐ *Feel free to check out my repositories and give a star if you like them!*
