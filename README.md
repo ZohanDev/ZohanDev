@@ -70,7 +70,7 @@
 <summary><b>🧬 AI Models</b></summary>
 <br/>
 
-> *Projects coming soon — watch this space!*
+> https://github.com/ZohanDev/AI-Models-5-Platforms-
 
 </details>
 
