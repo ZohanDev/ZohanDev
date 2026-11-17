@@ -4,7 +4,7 @@
 
 <br/>
 
-### *Just loves JavaScript and modelling* ✨
+### *Mainly like to vibecode, I can do really good orihost management* ✨
 
 <br/>
 
@@ -12,13 +12,13 @@
 
 ## 🧠 Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,luau,nodejs&theme=dark" />
 
 ---
 
 ## 🛠️ Platforms & Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,github,gitlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,discord&theme=dark" />
 
 &nbsp;
 <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" />
