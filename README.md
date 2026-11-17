@@ -18,11 +18,12 @@
 
 ## 🛠️ Platforms & Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,github,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,discord,vercel,
+  windows,robloxstudio&theme=dark" />
 
 &nbsp;
 <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Roblox_Studio-E00B24?style=for-the-badge&logo=roblox&logoColor=white" />
+<img src="https://img.shields.io/badge/Roblox%20Studio-blue?logo=robloxstudio" />
 
 ---
 
